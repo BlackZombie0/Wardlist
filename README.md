@@ -24,7 +24,7 @@ cd vairousXDz
 
 
 
-python vairousx.py
+python3 vairousx.py
 
 
 

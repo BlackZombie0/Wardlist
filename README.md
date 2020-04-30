@@ -16,12 +16,11 @@ pkg install python2
 pkg install git
 
 
-git clone https://github.com/MoussaUfonet/vairousXDz.git
+git clone https://github.com/FSOCIETY-coder-dz/Wardlist.git
 
 
 
-cd vairousXDz
-
+cd cd Wardlist
 
 
 python3 vairousx.py

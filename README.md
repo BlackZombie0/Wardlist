@@ -18,9 +18,11 @@ pkg install git
 
 git clone https://github.com/FSOCIETY-coder-dz/Wardlist.git
 
-chmod 777 fsolist.py
 
 cd Wardlist
+
+
+chmod 777 fsolist.py
 
 
 python3 fsolist.py

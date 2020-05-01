@@ -1,4 +1,4 @@
-# vairousXDz
+# FSOLIST
 
 
 سلام عليكم ورحمه الله وبركاته اخواني أداة صناعة قائمة باسورد 
@@ -18,7 +18,7 @@ pkg install git
 
 git clone https://github.com/FSOCIETY-coder-dz/Wardlist.git
 
-
+chmod 777 fsolist.py
 
 cd Wardlist
 

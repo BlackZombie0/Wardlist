@@ -3,31 +3,31 @@ os.system('printf "\033[3;32m" ')
 aaa=input('Entre name The LisT : ')
 os.system('clear') 
 os.system('printf "\033[3;36m"') 
-os.system('figlet Good - list')
-print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MdmmmmmmmmmmmmmmmmmmmmmmmmmmmmMM
-Md oooooooo+::----::/oooooooo`mM
-Md NMMms/.            ./smMMM`mM
-Mm Ny-                    -sM`mM
-Mm .                        .`mM
-Mm +-   `--`        `...   `+`mM
-Mm yN-ss++hMdo-  -odMho+sy:mh`mM
-Mm sh`     .+dd.`ddo.     `hh`mM
-Mm   .: /dNNh.  ` .yNNdo -- ` mM
-Mm     -+/+oy`---:`ss+/+:     mM
-Mm   /-     `/.  ./`     -+`  mM
-Mm `dMs`  ./oy/` /ss+.   oMm` mM
-Mm .MMMMNNMMMMMMNMMMMMNNNMMM: mM
-Mm hydNMMMMNNNMMMMNNNMMMMNdyh`mM
-Mm MM-    .ymdddhhdmy-    .NM`mM
-Mm MMh      ./osso/.      sMM`mM
-Mm MMM:                  -NMM`mM
-Mm MMMMs.              `oNMMM`mM
-Mm MMMMMMh:          -yMMMMMM`dM
-Mm./+++++++-.........++++++++.mM
-MMMMNMMMMMMMMMMMMNNMMMMMMMMMMMMM
-         FSOCIETY-ARAB
-') 
+os.system('figlet WARD-list')
+    print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM')
+    print('MdmmmmmmmmmmmmmmmmmmmmmmmmmmmmMM')
+    print('Md oooooooo+::----::/oooooooo`mM')
+    print('Md NMMms/.            ./smMMM`mM')
+    print('Mm Ny-                    -sM`mM')
+    print('Mm .                        .`mM')
+    print('Mm +-   `--`        `...   `+`mM')
+    print('Mm yN-ss++hMdo-  -odMho+sy:mh`mM')
+    print('Mm sh`     .+dd.`ddo.     `hh`mM')
+    print('Mm   .: /dNNh.  ` .yNNdo -- ` mM')
+    print('Mm     -+/+oy`---:`ss+/+:     mM')
+    print('Mm   /-     `/.  ./`     -+`  mM')
+    print('Mm `dMs`  ./oy/` /ss+.   oMm` mM')
+    print('Mm .MMMMNNMMMMMMNMMMMMNNNMMM: mM')
+    print('Mm hydNMMMMNNNMMMMNNNMMMMNdyh`mM')
+    print('Mm MM-    .ymdddhhdmy-    .NM`mM')
+    print('Mm MMh      ./osso/.      sMM`mM')
+    print('Mm MMM:                  -NMM`mM')
+    print('Mm MMMMs.              `oNMMM`mM')
+    print('Mm MMMMMMh:          -yMMMMMM`dM')
+    print('Mm./+++++++-.........++++++++.mM')
+    print('MMMMNMMMMMMMMMMMMNNMMMMMMMMMMMMM')
+    print('          FSOCIETY-ARAB         ')  
+          
 print('-'*29)
 file=open(aaa,'w') 
 aa=set([]) 

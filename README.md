@@ -23,7 +23,7 @@ git clone https://github.com/FSOCIETY-coder-dz/Wardlist.git
 cd Wardlist
 
 
-python3 vairousx.py
+python3 fsolist.py
 
 
 

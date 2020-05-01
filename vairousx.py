@@ -4,7 +4,30 @@ aaa=input('Entre name The LisT : ')
 os.system('clear') 
 os.system('printf "\033[3;36m"') 
 os.system('figlet Good - list')
-print('By : Moussa ((VAIROSX))') 
+print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MdmmmmmmmmmmmmmmmmmmmmmmmmmmmmMM
+Md oooooooo+::----::/oooooooo`mM
+Md NMMms/.            ./smMMM`mM
+Mm Ny-                    -sM`mM
+Mm .                        .`mM
+Mm +-   `--`        `...   `+`mM
+Mm yN-ss++hMdo-  -odMho+sy:mh`mM
+Mm sh`     .+dd.`ddo.     `hh`mM
+Mm   .: /dNNh.  ` .yNNdo -- ` mM
+Mm     -+/+oy`---:`ss+/+:     mM
+Mm   /-     `/.  ./`     -+`  mM
+Mm `dMs`  ./oy/` /ss+.   oMm` mM
+Mm .MMMMNNMMMMMMNMMMMMNNNMMM: mM
+Mm hydNMMMMNNNMMMMNNNMMMMNdyh`mM
+Mm MM-    .ymdddhhdmy-    .NM`mM
+Mm MMh      ./osso/.      sMM`mM
+Mm MMM:                  -NMM`mM
+Mm MMMMs.              `oNMMM`mM
+Mm MMMMMMh:          -yMMMMMM`dM
+Mm./+++++++-.........++++++++.mM
+MMMMNMMMMMMMMMMMMNNMMMMMMMMMMMMM
+         FSOCIETY-ARAB
+') 
 print('-'*29)
 file=open(aaa,'w') 
 aa=set([]) 
